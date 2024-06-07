@@ -1,4 +1,4 @@
-#Python Side
+# Python Side
 DOWNLOAD PYTHON
 then run all these commands on your terminal
 `pip install requests`
